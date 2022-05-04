@@ -1,1 +1,5 @@
-Hi this  is for testing Git practice 
+print ("Hi Hello")
+print(20+10)
+name = 'sakthiMurugan'
+
+print(name)
